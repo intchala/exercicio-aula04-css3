@@ -1,0 +1,80 @@
+* {
+  padding: 10;
+  margin: 50;
+  box-sizing: border-box;
+  font-family: Montserrat, Black;
+  text-align: left;
+  max-width: 90%;
+  }
+
+  #foto-prato { 
+  }
+
+  #nome-do-prato {font-family: Montserrat;
+    color: #FFB300;
+    font-size: 80px;
+    font-weight: bold;
+    line-height: .80;
+    letter-spacing: 0;
+
+  }
+
+  h3 { font-size: 34px;
+    color: #FFB300;
+    line-height: .42;
+    letter-spacing: 0;
+
+  }
+
+#autora {
+
+}
+
+#sobre-prato {
+  font-size: 21px;
+
+}
+
+.nome_prato {
+
+}
+
+#tempodepreparo {
+
+}
+
+#preparo {
+
+}
+
+.preparo {
+
+}
+
+#rendimento {
+
+}
+
+.rendimento {
+
+}
+
+#ingredientes {
+
+}
+
+#lista1 {
+
+}
+
+#mododepreparo {
+
+}
+
+#lista2 {
+
+}
+
+#video {
+
+}
