@@ -1,25 +1,29 @@
 * {
-  padding: 10;
-  margin: 50;
+  padding: 20;
+  margin: 10;
   box-sizing: border-box;
-  font-family: Montserrat, Black;
   text-align: left;
-  max-width: 90%;
+  max-width: 883px;
   }
 
-  #foto-prato { 
+  #foto-prato { width: 883px;
+    height: 374px;
+    border: 1px solid #707070;
+    opacity: 1;
+    max-width: 100%;
   }
 
-  #nome-do-prato {font-family: Montserrat;
-    color: #FFB300;
-    font-size: 80px;
+  h1 {font-family: Montserrat;
     font-weight: bold;
+    color: #FFB300;
+    font-size: 89px;
     line-height: .80;
     letter-spacing: 0;
-
   }
 
-  h3 { font-size: 34px;
+  h3 { font-family: Montserrat;
+    font-weight: bold;
+    font-size: 34px;
     color: #FFB300;
     line-height: .42;
     letter-spacing: 0;
@@ -27,27 +31,33 @@
   }
 
 #autora {
-
-}
-
-#sobre-prato {
+  font-family: Montserrat;
+  font-weight: bold;
   font-size: 21px;
+  text-align: right;
+}
+
+#sobre-prato { font-family: Montserrat, SemiBold;
+  font-size: 21px;
+  font-weight:normal;
 
 }
 
-.nome_prato {
+.nome_prato {font-weight: bold;
 
 }
 
 #tempodepreparo {
-
+  font-family: Montserrat;
+  
+  font-size: 21px;
 }
 
 #preparo {
 
 }
 
-.preparo {
+.preparo {font-weight: bold;
 
 }
 
@@ -55,7 +65,7 @@
 
 }
 
-.rendimento {
+.rendimento {font-weight: bold;
 
 }
 
@@ -64,17 +74,18 @@
 }
 
 #lista1 {
-
+  font-family: Montserrat, SemiBold;
+  font-weight: 21px;
+  color: #000000;
 }
 
 #mododepreparo {
 
 }
 
-#lista2 {
-
-}
-
-#video {
-
+#lista2 {font-family: Montserrat, SemiBold;
+  font-weight: 21px;
+  color: #000000;
+  letter-spacing: 0px;
+  line-height: 2;
 }
