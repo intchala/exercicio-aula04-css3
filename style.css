@@ -17,7 +17,7 @@
     font-weight: bold;
     color: #FFB300;
     font-size: 89px;
-    line-height: .80;
+    line-height: 0;
     letter-spacing: 0;
   }
 
@@ -53,15 +53,7 @@
   font-size: 21px;
 }
 
-#preparo {
-
-}
-
 .preparo {font-weight: bold;
-
-}
-
-#rendimento {
 
 }
 
@@ -69,18 +61,10 @@
 
 }
 
-#ingredientes {
-
-}
-
 #lista1 {
   font-family: Montserrat, SemiBold;
   font-weight: 21px;
   color: #000000;
-}
-
-#mododepreparo {
-
 }
 
 #lista2 {font-family: Montserrat, SemiBold;
